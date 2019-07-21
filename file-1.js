@@ -1,6 +1,6 @@
 function test() {
-    var a = 8;
-    a -= 5;
+    var a = 10;
+    a -= 4;
     return a;
 }
 
