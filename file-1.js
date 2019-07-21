@@ -1,5 +1,5 @@
 function test() {
-    var a = 10;
+    var a = 8;
     a -= 5;
     return a;
 }
