@@ -1,7 +1,8 @@
 function test() {
-    var a = 10;
+    var a = 10, b = 5;
     a += 2;
-    return a;
+    b = b + a;
+    return b;
 }
 
 test();
